@@ -1,4 +1,6 @@
 ### Hi there 👋
+Perkenalkan nama saya **Khadafi A. Kartiwa**.<br>
+Saya seorang **Mahasiswa** di **Universitas Gunadarma**.<br>
 
 <!--
 **Stargaz28/Stargaz28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
